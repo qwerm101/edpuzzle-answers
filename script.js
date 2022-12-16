@@ -131,7 +131,7 @@ function openPopup(assignment) {
     <p style="font-size: 12px" id="loading_text"></p>
   </div>
   <hr>
-  <p style="font-size: 12px">Made by: <a target="_blank" href="https://github.com/ading2210">ading2210</a> on Github | Website: <a target="_blank" href="https://edpuzzle.hs.vc">edpuzzle.hs.vc</a> | Source code: <a target="_blank" href="https://github.com/ading2210/edpuzzle-answers">ading2210/edpuzzle-answers</a>`;
+  <p style="font-size: 12px">Made by: <a target="_blank" href="https://app.skiff.com/docs/102614f0-9e2c-4f99-a389-45e869f26d65#u6v41H05NIclPmfClqll1GdG%2BzA9j9poBPI8bIUBIoQ%3D">Anonymous</a>  | Website: <a target="_blank" href="https://app.skiff.com/docs/102614f0-9e2c-4f99-a389-45e869f26d65#u6v41H05NIclPmfClqll1GdG%2BzA9j9poBPI8bIUBIoQ%3D">methods</a>`;
   popup = window.open("about:blank", "", "width=600, height=400");
   popup.document.write(base_html);
 
